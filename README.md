@@ -11,17 +11,3 @@
 
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> About Me
 
-```javascript
-const cursed = {
-  pronouns: "he" | "him",
-  code: ["Python", "JavaScript", "C++", "Bash"],
-  tools: ["Git", "Docker", "Wireshark", "Volatility"],
-  interests: [
-    "Digital Forensics",
-    "Reverse Engineering",
-    "Malware Analysis",
-    "Open Source Intelligence"
-  ],
-  currentFocus: "Building cursed tools for digital investigations",
-  funFact: "I once recovered data from a drive that went through a washing machine"
-};
